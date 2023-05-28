@@ -1,4 +1,4 @@
-# lakshay
+
 <h1 align="center">Hi 👋, I'm Lakshay choudahry</h1>
 <h3 align="center">I am a under graduation computer science student</h3>
 <img align="right" width=400px alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kdixi82i2j9kp07xuhykfc7tdai4rnnseongc0w7&ep=v1_gifs_search&rid=giphy.gif&ct=g"
